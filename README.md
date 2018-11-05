@@ -1,7 +1,7 @@
 # ![Divisio](./logo.png) Vagas para desenvolvedores
 
 ## O que nós fazemos?
-Nós somos uma Desenvolvedora de Software apaixonada em transformar idéias em realidade. 
+Nós somos apaixonados em transformar idéias em realidade. 
 Isso significa que vamos muito além do `{código}`, nos importamos verdadeiramente com nossos clientes, e, principalmente com nossos devs. Preocupamos em melhorar constantemente nossos processos, nossas metolodias e dedicamos à iniciativas que ajudam os devs no Brasil.
 
 
