@@ -2,7 +2,7 @@
 
 ## O que nós fazemos?
 Nós somos uma Desenvolvedora de Software apaixonada em transformar idéias em realidade. 
-Isso significa que vamos muito além do `{código}`, nos importamos verdadeira com nossos clientes, e, principalmente com nossos devs. Gostamos de melhorar constante nossos processos, nossas metolodias e dedicamos nosso também para ajudar o mercado de devs no Brasil.
+Isso significa que vamos muito além do `{código}`, nos importamos verdadeiramente com nossos clientes, e, principalmente com nossos devs. Preocupamos em melhorar constantemente nossos processos, nossas metolodias e dedicamos à iniciativas que ajudam os devs no Brasil.
 
 
 
