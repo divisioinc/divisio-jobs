@@ -1,4 +1,6 @@
-# ![Divisio](./logo.png) Vagas para desenvolvedores
+![Divisio](./logo.png)
+
+# Vagas para desenvolvedores
 
 ## O que nós fazemos?
 Nós somos apaixonados em transformar idéias em realidade. 
