@@ -13,8 +13,8 @@
 
 # Extras
 - [ ] Também implementar em React Native
-- [ ] Documentar seus componentes com [docz](https://www.docz.site/)
-- [ ] Testar seus components com [jest](https://jestjs.io/) e/ou [enzyme](https://github.com/airbnb/enzyme)
+- [ ] Documentar seus componentes com [docz](https://www.docz.site/), [storybook](https://storybook.js.org/) ou outro
+- [ ] Testar seus components com [jest](https://jestjs.io/),[enzyme](https://github.com/airbnb/enzyme) ou [react-testing-library](https://github.com/kentcdodds/react-testing-library)
 
 O tema do app pode ser algo como (produtos, posts, todo, pokemon), uma vez que cumpra os requisitos, o tema pode ser o que preferir.
 
