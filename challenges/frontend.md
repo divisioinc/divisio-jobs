@@ -8,7 +8,7 @@
 - [ ] Criar/Excluir registros
 
 ## Requisitos técnicos
-- [ ] Deverá usar React
+- [ ] Deverá usar React ou React Native
 - [ ] Deverá ser aberto em seu repositório no github
 
 # Extras
