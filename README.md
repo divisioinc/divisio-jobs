@@ -1,43 +1,37 @@
 ![Divisio](./logo.png)
 
-# Vaga para desenvolvedor front-end
+# Desenvolvedor front-end React (Remoto)
 
 ## Descrição da vaga
-Participar ativamente de vários projetos focados nas tecnoligias React, React Native e seus ecossistemas baseado nas necessidades dos clientes.
+A Divisio é uma empresa sediada em Belo Horizonte - MG, especializada em desenvolvimento e consultoria com as tecnologias React.js,
+React Native, Node.js, GraphQL, desde projetos pequenos até arquiteturas de aplicações de larga escala. Nos somos um time de especialistas trabalhando em conjunto
+para lidar com os problemas de software mais difíceis, transformando idéias em realidade. Nós desenvolvemos produtos para grandes empresas ajudando suas equipes internas
+a desenvolver habilidades necessárias para construir e manter sistemas complexos e escalonáveis.
 
-## Local
-Remoto
-
-#### Diferenciais
-- Hierarquia horizontal, todos tem voz na empresa.
-- Te valorizamos pelo seu resultado e não pelo tempo trabalho. Há muito espaço p/ crescer
-- Trabalhamos com as tecnologias mais atuais
-- Horário flexível
-- Você pode trabalhar de qualquer lugar que quiser
+Nós trabalhamos duro para promover uma cultura de apoio com uma arquitetura horizontal, onde todos podem aprender um com os outros e tem voz na empresa.
+Nós garantimos que todos tenham oportunidades de crescimento e participando de decisões diárias. Você irá trabalhar remoto de qualquer lugar que quiser, desenvolvendo novas aplicações, features, e mantendo sistemas existentes para empresas que variam de tamanho, desde startups até grandes empresas. Quando você não estiver trabalhando em um projeto de um cliente, você terá a
+oportunidade de contribuir com o desenvolvimento de nossos processos internos, sempre tendo vós para sugerir melhorias e oportunidade de contribuir para projetos open-source.
 
 ## Requisitos
 
 **Obrigatórios:**
-- [ ] Conhecimentos sólidos em Javascript
-- [ ] Conhecimentos sólidos em React
-- [ ] Conhecimentos sólidos em React Native
-- [ ] Conhecimentos sólidos em html, css, flexbox e estruturação de layouts complexos
-- [ ] [Desafio](./challenges/frontend.md)
+- Conhecimentos sólidos em JavaScript.
+- Experiência com as principais APIs do React e bibliotecas comuns como Redux.
+- Experiência com desenvolvimento de aplicativos com React Native
+- Entendimento sobre engenharia de Web: arquitetura client/server, REST, etc.
+- Experiência com revisão e colaboração de código em equipes usando Git.
+- Inglês intermediário: Pelo menos se comunicar bem através de chat
+- Completar o [Desafio](./challenges/frontend.md)
 
-**Desejáveis:**
-- GraphQL
-- Arquitetura REST
-- NodeJS
-- Apollo client/server
-
-**Diferenciais:**
-- Se comunicar bem em inglês
+**Desejáveis (Crédito extra):**
+- Experência com as APIs modernas do React: Context e Hooks
+- Experiência com sistemas de tipos JavaScript: Flow e TypeScript
+- Experiência em escrever e integrar serviços em GraphQL
+- Conhecimento com frameworks web Node.js: Express, Koa ou Hapi
+- Inglês avançado: Se comunicar bem verbalmente
 
 ## Contratação
 PJ a combinar
-
-## Nossa empresa
-Nós somos apaixonados em transformar idéias em realidade. Isso significa que vamos muito além do {código}, nos importamos verdadeiramente com nossos clientes, e, principalmente com nossos devs. Preocupamos em melhorar constantemente nossos processos, nossas metolodias e dedicamos nossos esforços à iniciativas que ajudam os devs no Brasil.
 
 ## Como se candidatar
 Por favor envie um email para rodrigo@divisio.com.br com seu CV anexado - enviar no assunto: [VAGA FRONTEND] SEU_NOME
