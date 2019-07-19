@@ -15,7 +15,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 ## Requisitos
 
 **Obrigatórios:**
-- Conhecimentos sólidos em JavaScript.
+- Experiência com JavaScript.
 - Experiência com as principais APIs do React e bibliotecas comuns como Redux.
 - Experiência com desenvolvimento de aplicativos com React Native
 - Entendimento sobre engenharia de Web: arquitetura client/server, REST, etc.
