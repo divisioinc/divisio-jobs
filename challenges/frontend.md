@@ -22,4 +22,4 @@ Construir um aplicativo web de chat
 ## Diferenciais (Crédito extra)
 - [ ] Utilizar as APIs modernas do React: Hooks e Context
 - [ ] Documentar seus componentes com [docz](https://www.docz.site/), [storybook](https://storybook.js.org/) ou outro
-- [ ] Testar seus components com [jest](https://jestjs.io/),[enzyme](https://github.com/airbnb/enzyme) ou [react-testing-library](https://github.com/kentcdodds/react-testing-library)
+- [ ] Testar seus components com [jest](https://jestjs.io/), [enzyme](https://github.com/airbnb/enzyme) ou [react-testing-library](https://github.com/kentcdodds/react-testing-library)
