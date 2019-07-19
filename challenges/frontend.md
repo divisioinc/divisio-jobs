@@ -13,7 +13,7 @@ Construir um aplicativo web de chat
 
 ## Considerações
 - Não há necessidade de ser real-time, utilizar socket.io, etc
-- Utilizar o localstorage para persistir novas mensagens, não há necessidade de salvar me um banco de dados
+- Utilizar o localstorage para persistir novas mensagens, não há necessidade de salvar em um banco de dados
 
 ## Requisitos técnicos
 - [ ] Deverá usar React ou React Native
