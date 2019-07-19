@@ -28,7 +28,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 - Experiência com sistemas de tipos JavaScript: Flow e TypeScript
 - Experiência em escrever e integrar serviços em GraphQL
 - Conhecimento com frameworks web Node.js: Express, Koa ou Hapi
-- Inglês avançado: Se comunicar bem verbalmente
+- Inglês avançado: Comunicar-se bem verbalmente através de calls
 
 ## Contratação
 PJ a combinar
