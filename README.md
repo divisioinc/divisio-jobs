@@ -20,7 +20,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 - Experiência com desenvolvimento de aplicativos com React Native
 - Entendimento sobre engenharia de Web: arquitetura client/server, REST, etc.
 - Experiência com revisão e colaboração de código em equipes usando Git.
-- Inglês intermediário: Pelo menos se comunicar bem através de chat
+- Inglês intermediário: Boa comunicação através de chat
 - Completar o [Desafio](./challenges/frontend.md)
 
 **Desejáveis (Crédito extra):**
