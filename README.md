@@ -23,7 +23,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 - Inglês intermediário: Boa comunicação através de chat
 - Completar o [Desafio](./challenges/frontend.md)
 
-**Desejáveis (Crédito extra):**
+**Diferenciais (Crédito extra):**
 - Experência com as APIs modernas do React: Context e Hooks
 - Experiência com sistemas de tipos JavaScript: Flow e TypeScript
 - Experiência em escrever e integrar serviços em GraphQL
