@@ -4,11 +4,11 @@
 
 ## Descrição da vaga
 A Divisio é uma empresa sediada em Belo Horizonte - MG, especializada em desenvolvimento e consultoria utilizando as tecnologias React.js,
-React Native, Node.js, GraphQL, desde projetos pequenos até arquiteturas de aplicações de larga escala. Nós somos um time de especialistas trabalhando em conjunto
-para lidar com os problemas de software mais difíceis, transformando idéias em realidade. Desenvolvemos produtos para grandes empresas ajudando suas equipes internas
+React Native, Node.js, GraphQL, desde projetos pequenos até arquiteturas de aplicações de larga escala. Nós somos um time de especialistas, trabalhando em conjunto
+para lidar com os problemas de software mais difíceis, transformando idéias em realidade. Desenvolvemos produtos para grandes empresas, ajudando suas equipes internas
 a desenvolver habilidades necessárias para construir e manter sistemas complexos e escalonáveis.
 
-Trabalhamos duro para promover uma cultura de apoio com uma arquitetura horizontal, onde todos podem aprender um com os outros e têm voz na empresa.
+Trabalhamos duro para promover uma cultura de apoio com uma hierarquia horizontal, onde todos podem aprender um com os outros e têm voz na empresa.
 Nós garantimos que todos tenham oportunidade de crescimento e participação em decisões diárias. Você trabalhará remoto de qualquer lugar que quiser, desenvolvendo novas aplicações, features, e mantendo sistemas existentes para empresas que variam de tamanho, desde startups até grandes empresas. Quando você não estiver trabalhando em um projeto de um cliente, terá a
 oportunidade de contribuir com o desenvolvimento de nossos processos internos, sempre tendo voz para sugerir melhorias e oportunidade de contribuir para projetos open-source.
 
