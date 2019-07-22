@@ -1,6 +1,6 @@
 # Desafio Frontend
 
-Construir um aplicativo web de chat
+Construir uma aplicação de chat
 
 ## Requisitos
 
