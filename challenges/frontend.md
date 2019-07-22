@@ -4,10 +4,11 @@ Construir um aplicativo web de chat
 
 ## Requisitos
 
-- Listagem de conversas de diferentes pessoas
+- Listar conversas de diferentes pessoas
 - Ao clicar na conversa deve abrir a visualização de mensagens dessa conversa
 - Deve ser possível enviar novas mensagens para uma conversa
-- Ao enviar uma nova mensagem ela deve aparecer na conversar
+- Ao enviar uma nova mensagem ela deve aparecer na conversa
+- Se a conversa não tiver nenhuma messagem deve exibir algum tipo de feedback dizendo que não há mensagens pra conversa selecionada
 - Diferenciar visualmente mensagens que são recebidas e enviadas
 - Consumir [essa api](https://github.com/divisioinc/chat-api) para listagem das conversas e mensagens
 
@@ -21,5 +22,6 @@ Construir um aplicativo web de chat
 
 ## Diferenciais (Crédito extra)
 - [ ] Utilizar as APIs modernas do React: Hooks e Context
+- [ ] Se for web, construir de forma responsiva
 - [ ] Documentar seus componentes com [docz](https://www.docz.site/), [storybook](https://storybook.js.org/) ou outro
 - [ ] Testar seus components com [jest](https://jestjs.io/), [enzyme](https://github.com/airbnb/enzyme) ou [react-testing-library](https://github.com/kentcdodds/react-testing-library)
