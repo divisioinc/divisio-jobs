@@ -58,4 +58,4 @@ PJ a combinar
 ## Como se candidatar
 Por favor, envie um email para rodrigo@divisio.com.br com seu CV anexado - enviar no assunto: [VAGA] - [SEU_NOME]
 
-OBS: Se você tiver um Github relevante ou já tiver executado testes pra outras vagas com requisitos técnico semelhantes, este pode dispensar a necessidade do teste. Caso contrário, só aceitamos candidaturas com o desafio realizado.
+OBS: Se você tiver um Github relevante ou já tiver feito testes pra outras vagas com requisitos técnico semelhantes, este pode dispensar a necessidade do teste. Caso contrário, só aceitamos candidaturas com o desafio realizado.
