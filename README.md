@@ -40,7 +40,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 - Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux.
 - Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc.
 - Experiência com revisão e colaboração de código em equipes usando Git.
-- Inglês conversacional: Boa comunicação através chat e video conferências
+- Inglês avançado: Boa comunicação através chat e video conferências
 - Completar o [Desafio](./challenges/full-stack.md)
 
 **Diferenciais (Crédito extra):**
