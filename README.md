@@ -3,7 +3,7 @@
 # Vagas para desenvolvedores
 
 ## Oque fazemos?
-A Divisio é remota, especializada em desenvolvimento e consultoria utilizando as tecnologias React.js,
+A Divisio é uma empresa remota, especializada em desenvolvimento e consultoria utilizando as tecnologias React.js,
 React Native, Node.js, GraphQL e API REST, desde projetos pequenos até arquiteturas de aplicações de larga escala. Nós somos um time de especialistas, trabalhando em conjunto
 para lidar com os problemas de software mais difíceis, transformando idéias em realidade. Desenvolvemos produtos para grandes empresas, ajudando suas equipes internas
 a desenvolver habilidades necessárias para construir e manter sistemas complexos e escalonáveis.
@@ -15,7 +15,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 
 ## Vagas
 
-### Desenvolvedor front-end React (Remoto)
+### Desenvolvedor front-end React (Remoto e)
 
 **Requisitos obrigatórios:**
 - Experiência com JavaScript.
