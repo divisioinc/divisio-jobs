@@ -15,7 +15,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 
 ## Vagas
 
-### Desenvolvedor front-end React (Remoto e)
+### Desenvolvedor front-end React (Remoto)
 
 **Requisitos obrigatórios:**
 - Experiência com JavaScript.
@@ -46,6 +46,8 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 **Diferenciais (Crédito extra):**
 - Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
 - Experiência com React Native
+- Experiência com dev-ops (Circle CI, CD/CI, Bitrise, automatização de deploys em geral: Web, Mobile React Native, Backend)
+- Experiência com escrita de testes (Unitário, Integração, E2E)
 
 ### Benefícios
 - Descanso remunerado de 20 dias por ano
