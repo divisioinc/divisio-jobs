@@ -48,8 +48,6 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 - Experiência com React Native
 
 ### Benefícios
-- Hierarquia horizontal
-- Horário flexível
 - Descanso remunerado de 20 dias/ano
 - Aulas de inglês semanais com professor particular
 - Incentivo para educação e cursos
