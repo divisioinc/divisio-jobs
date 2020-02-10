@@ -1,42 +1,63 @@
-![Divisio](./logo.png)
+![Divisio](./logo.png )
 
-# Desenvolvedor front-end React (Remoto)
+# Vagas para desenvolvedores
 
-## Descrição da vaga
-A Divisio é uma empresa sediada em Belo Horizonte - MG, especializada em desenvolvimento e consultoria utilizando as tecnologias React.js,
-React Native, Node.js, GraphQL, desde projetos pequenos até arquiteturas de aplicações de larga escala. Nós somos um time de especialistas, trabalhando em conjunto
+## Oque fazemos?
+A Divisio é remota, especializada em desenvolvimento e consultoria utilizando as tecnologias React.js,
+React Native, Node.js, GraphQL e API REST, desde projetos pequenos até arquiteturas de aplicações de larga escala. Nós somos um time de especialistas, trabalhando em conjunto
 para lidar com os problemas de software mais difíceis, transformando idéias em realidade. Desenvolvemos produtos para grandes empresas, ajudando suas equipes internas
 a desenvolver habilidades necessárias para construir e manter sistemas complexos e escalonáveis.
 
+## Time
 Trabalhamos duro para promover uma cultura de apoio com uma hierarquia horizontal, onde todos podem aprender um com os outros.
 Nós garantimos que todos tenham oportunidade de crescimento e participação em decisões diárias. Você trabalhará remoto de qualquer lugar onde quiser, desenvolvendo novas aplicações, features e mantendo sistemas existentes para empresas que variam de tamanho, desde startups até grandes empresas. Quando você não estiver trabalhando em um projeto de um cliente, terá a
 oportunidade de contribuir com o desenvolvimento de nossos processos internos, sempre tendo voz para sugerir melhorias e oportunidade de contribuir para projetos open-source.
 
-## Requisitos
+## Vagas
 
-**Obrigatórios:**
+### Desenvolvedor front-end React (Remoto)
+
+**Requisitos obrigatórios:**
 - Experiência com JavaScript.
-- Experiência com as principais APIs do React e bibliotecas comuns como Redux.
-- Experiência com desenvolvimento de aplicativos com React Native
-- Entendimento sobre engenharia de Web: arquitetura client/server, REST, etc.
+- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux.
+- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc.
 - Experiência com revisão e colaboração de código em equipes usando Git.
-- Inglês intermediário: Boa comunicação através de chat
+- Inglês conversacional: Boa comunicação através chat e video conferências
 - Completar o [Desafio](./challenges/frontend.md)
 
 **Diferenciais (Crédito extra):**
-- Experência com as APIs modernas do React: Context e Hooks
-- Experiência com sistemas de tipos JavaScript: Flow e TypeScript
+- Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
 - Experiência em escrever e integrar serviços em GraphQL
 - Conhecimento com frameworks web Node.js: Express, Koa ou Hapi
-- Inglês avançado: Comunicar-se bem verbalmente através de calls
+- Experiência com React Native
+
+### Desenvolvedor full-stack (Remoto)
+
+**Requisitos obrigatórios:**
+- Experiência com JavaScript.
+- Experiência com Node.js.
+- Experiência com API REST utilizando express ou koa e GraphQL utilizando Apollo client e server.
+- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux.
+- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc.
+- Experiência com revisão e colaboração de código em equipes usando Git.
+- Inglês conversacional: Boa comunicação através chat e video conferências
+- Completar o [Desafio](./challenges/full-stack.md)
+
+**Diferenciais (Crédito extra):**
+- Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
+- Experiência com React Native
+
+### Benefícios
+- Hierarquia horizontal
+- Horário flexível
+- Descanso remunerado de 20 dias/ano
+- Aulas de inglês semanais com professor particular
+- Incentivo para educação e cursos
 
 ## Contratação
 PJ a combinar
 
 ## Como se candidatar
-Por favor, envie um email para rodrigo@divisio.com.br com seu CV anexado - enviar no assunto: [VAGA FRONTEND] SEU_NOME
+Por favor, envie um email para rodrigo@divisio.com.br com seu CV anexado - enviar no assunto: [VAGA] - [SEU_NOME]
 
-OBS: Se você tiver um Github relevante, este pode dispensar a necessidade do teste. Caso contrário, só aceitamos candidaturas com o desafio realizado.
-
-## Tempo médio de feedbacks
-Uma vez enviado todas as informações (desafio incluso) damos um retorno em 5 dias úteis.
+OBS: Se você tiver um Github relevante ou já tiver executado testes pra outras vagas com requisitos técnico semelhantes, este pode dispensar a necessidade do teste. Caso contrário, só aceitamos candidaturas com o desafio realizado.
