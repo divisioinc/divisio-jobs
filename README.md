@@ -2,16 +2,13 @@
 
 # Vagas para desenvolvedores
 
-## Oque fazemos?
-A Divisio é uma empresa remota, especializada em desenvolvimento e consultoria utilizando as tecnologias React.js,
-React Native, Node.js, GraphQL e API REST, desde projetos pequenos até arquiteturas de aplicações de larga escala. Nós somos um time de especialistas, trabalhando em conjunto
-para lidar com os problemas de software mais difíceis, transformando idéias em realidade. Desenvolvemos produtos para grandes empresas, ajudando suas equipes internas
-a desenvolver habilidades necessárias para construir e manter sistemas complexos e escalonáveis.
+## O que fazemos?
+A Divisio é empresa especializada em desenvolver software customizado, mobile apps, web apps utilizando as tecnologias React.js, React Native, Node.js, GraphQL e API REST. Trabalhamos com projetos de todos os tamanhos, desde pequenos até arquiteturas de aplicações de larga escala. Somos um time de especialistas, apaixonados por good code e trabalhamos em conjunto para lidar com os problemas de software mais difíceis e transformando idéias em realidade. 
 
 ## Time
 Trabalhamos duro para promover uma cultura de apoio com uma hierarquia horizontal, onde todos podem aprender um com os outros.
-Nós garantimos que todos tenham oportunidade de crescimento e participação em decisões diárias. Você trabalhará remoto de qualquer lugar onde quiser, desenvolvendo novas aplicações, features e mantendo sistemas existentes para empresas que variam de tamanho, desde startups até grandes empresas. Quando você não estiver trabalhando em um projeto de um cliente, terá a
-oportunidade de contribuir com o desenvolvimento de nossos processos internos, sempre tendo voz para sugerir melhorias e oportunidade de contribuir para projetos open-source.
+Todos têm a oportunidade de crescimento e participação em decisões diárias. Você poderá trabalhar remotamente de qualquer lugar, desenvolvendo novas aplicações, features e mantendo sistemas existentes para empresas que variam de tamanho, desde startups até grandes empresas. Quando você não estiver trabalhando em um projeto de um cliente, terá a
+oportunidade de contribuir com o desenvolvimento de nossos processos e produtos internos, sempre tendo voz para sugerir melhorias e oportunidade de contribuir para projetos open-source.
 
 ## Vagas
 
@@ -23,13 +20,14 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 - Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc
 - Experiência com revisão e colaboração de código em equipes usando Git
 - Inglês avançado: Boa comunicação através chat e video conferências
-- Completar o [Desafio](./challenges/frontend.md)
+- Completar o [Desafio](./challenges/frontend.md) ou Github que comprove experiência
 
 **Diferenciais (Crédito extra):**
 - Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
 - Experiência em escrever e integrar serviços em GraphQL
 - Conhecimento com frameworks web Node.js: Express, Koa ou Hapi
 - Experiência com React Native
+- Participação na Comunidade
 
 ### Desenvolvedor full-stack (Remoto)
 
