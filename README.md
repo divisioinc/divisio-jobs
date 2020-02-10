@@ -48,7 +48,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 - Experiência com React Native
 
 ### Benefícios
-- Descanso remunerado de 20 dias/ano
+- Descanso remunerado de 20 dias por ano
 - Aulas de inglês semanais com professor particular
 - Incentivo para educação e cursos
 
