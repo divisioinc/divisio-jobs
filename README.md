@@ -51,7 +51,7 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 
 ### Benefícios
 - Descanso remunerado de 20 dias por ano
-- Aulas de inglês semanais com professor particular
+- Mentoria de inglês semanais com professor particular tutor
 - Incentivo para educação e cursos
 
 ## Contratação
