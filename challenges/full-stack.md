@@ -13,5 +13,5 @@
 
 ## Diferenciais (Não obrigatório) (Crédito extra)
 - [ ] Utilizar as APIs modernas do React: Hooks e Context
-- [ ] Construir de forma responsiva e como uma UI elegante
+- [ ] Construir de forma responsiva e com uma UI elegante
 - [ ] Testar seus components com [jest](https://jestjs.io/), [enzyme](https://github.com/airbnb/enzyme) ou [react-testing-library](https://github.com/kentcdodds/react-testing-library)
