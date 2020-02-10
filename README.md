@@ -18,11 +18,11 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 ### Desenvolvedor front-end React (Remoto)
 
 **Requisitos obrigatórios:**
-- Experiência com JavaScript.
-- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux.
-- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc.
-- Experiência com revisão e colaboração de código em equipes usando Git.
-- Inglês conversacional: Boa comunicação através chat e video conferências
+- Experiência com JavaScript
+- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux
+- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc
+- Experiência com revisão e colaboração de código em equipes usando Git
+- Inglês avançado: Boa comunicação através chat e video conferências
 - Completar o [Desafio](./challenges/frontend.md)
 
 **Diferenciais (Crédito extra):**
@@ -36,10 +36,10 @@ oportunidade de contribuir com o desenvolvimento de nossos processos internos, s
 **Requisitos obrigatórios:**
 - Experiência com JavaScript.
 - Experiência com Node.js.
-- Experiência com API REST utilizando express ou koa e GraphQL utilizando Apollo client e server.
-- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux.
-- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc.
-- Experiência com revisão e colaboração de código em equipes usando Git.
+- Experiência com API REST utilizando express ou koa e GraphQL utilizando Apollo client e server
+- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux
+- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc
+- Experiência com revisão e colaboração de código em equipes usando Git
 - Inglês avançado: Boa comunicação através chat e video conferências
 - Completar o [Desafio](./challenges/full-stack.md)
 
