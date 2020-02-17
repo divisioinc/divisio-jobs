@@ -54,4 +54,4 @@ oportunidade de contribuir com o desenvolvimento de nossos processos e produtos 
 PJ a combinar
 
 ## Como se candidatar
-Por favor, envie um email para rodrigo@divisio.com.br com seu CV anexado - enviar no assunto: [VAGA] - [SEU_NOME]
+Responder: https://forms.gle/cLw6po5TnphpHASv7
