@@ -1,6 +1,6 @@
 ![Divisio](./logo.png )
 
-# Vagas para desenvolvedores
+# Vagas para pessoas desenvolvedoras
 
 ## O que fazemos?
 A Divisio é empresa especializada em desenvolver software customizado, mobile apps, web apps utilizando as tecnologias React.js, React Native, Node.js, GraphQL e API REST. Trabalhamos com projetos de todos os tamanhos, desde pequenos até arquiteturas de aplicações de larga escala. Somos um time de especialistas, apaixonados por good code e trabalhamos em conjunto para lidar com os problemas de software mais difíceis e transformando idéias em realidade.
@@ -20,7 +20,6 @@ oportunidade de contribuir com o desenvolvimento de nossos processos e produtos 
 - Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc
 - Experiência com revisão e colaboração de código em equipes usando Git
 - Inglês avançado: Boa comunicação através chat e video conferências
-- Completar o [Desafio](./challenges/frontend.md) ou Github que comprove experiência
 
 **Diferenciais (Crédito extra):**
 - Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
@@ -39,7 +38,6 @@ oportunidade de contribuir com o desenvolvimento de nossos processos e produtos 
 - Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc
 - Experiência com revisão e colaboração de código em equipes usando Git
 - Inglês avançado: Boa comunicação através chat e video conferências
-- Completar o [Desafio](./challenges/full-stack.md) ou Github que comprove experiência
 
 **Diferenciais (Crédito extra):**
 - Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
