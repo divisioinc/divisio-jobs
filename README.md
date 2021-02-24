@@ -12,42 +12,39 @@ oportunidade de contribuir com o desenvolvimento de nossos processos e produtos 
 
 ## Vagas
 
-### Desenvolvedor front-end React (Remoto)
+### Desenvolvedor full-stack - Web (Remoto)
 
 **Requisitos obrigatórios:**
 - Experiência com JavaScript
-- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux
-- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc
+- Experiência com TypeScript
+- Experiência com **React.js** e suas principais APIs (hooks e context)
+- Experiência com GraphQL utilizando Node.js e Apollo
 - Experiência com revisão e colaboração de código em equipes usando Git
 - Inglês avançado: Boa comunicação através chat e video conferências
 
 **Diferenciais (Crédito extra):**
-- Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
-- Experiência em escrever e integrar serviços em GraphQL
-- Conhecimento com frameworks web Node.js: Express, Koa ou Hapi
-- Experiência com React Native
-- Participação na Comunidade
+- Experiencia com Next.js
+- Experiência com dev-ops (CD/CI: Circle CI, Github actions, etc)
+- Familiaridade com testes automatizados
 
-### Desenvolvedor full-stack (Remoto)
+## Vagas
+
+### Desenvolvedor full-stack - Mobile (Remoto)
 
 **Requisitos obrigatórios:**
-- Experiência com JavaScript.
-- Experiência com Node.js.
-- Experiência com API REST utilizando express ou koa e GraphQL utilizando Apollo client e server
-- Experiência com React.js e suas principais APIs (hooks e context) e bibliotecas comuns como Redux
-- Entendimento sobre engenharia de Web: arquitetura client/server, REST, GRAPHQL etc
+- Experiência com JavaScript
+- Experiência com **React Native**
+- Ter ambiente IOS e familiaridade com publicação de aplicativos nas lojas: App Store e Google Play
+- Familiaridade com API REST utilizando Node.js
 - Experiência com revisão e colaboração de código em equipes usando Git
-- Inglês avançado: Boa comunicação através chat e video conferências
 
 **Diferenciais (Crédito extra):**
-- Experiência com sistemas de tipos JavaScript: Flow e/ou TypeScript
-- Experiência com React Native
-- Experiência com dev-ops (Circle CI, CD/CI, Bitrise, automatização de deploys em geral: Web, Mobile React Native, Backend)
-- Experiência com escrita de testes (Unitário, Integração, E2E)
+- Familiaridade com testes automatizados
+- Experiência com Nest.js
+
 
 ### Benefícios
 - Descanso remunerado de 20 dias por ano
-- Mentoria de inglês semanais com professor particular tutor
 - Incentivo para educação e cursos
 
 ## Contratação
