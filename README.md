@@ -49,4 +49,4 @@ Trabalhamos duro para promover uma cultura de apoio com uma hierarquia horizonta
 PJ a combinar
 
 ## Como se candidatar
-Responder: https://forms.gle/N5mG8yvLaVojFLSd7
+Responder: https://forms.gle/CxbChBCFb1bu73W6A
