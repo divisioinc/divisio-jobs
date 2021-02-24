@@ -51,4 +51,4 @@ oportunidade de contribuir com o desenvolvimento de nossos processos e produtos 
 PJ a combinar
 
 ## Como se candidatar
-Responder: https://forms.gle/cLw6po5TnphpHASv7
+Responder: [WIP]
