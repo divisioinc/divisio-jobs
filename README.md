@@ -3,12 +3,10 @@
 # Vagas para pessoas desenvolvedoras
 
 ## O que fazemos?
-A Divisio é empresa especializada em desenvolver software customizado, mobile apps, web apps utilizando as tecnologias React.js, React Native, Node.js, GraphQL e API REST. Trabalhamos com projetos de todos os tamanhos, desde pequenos até arquiteturas de aplicações de larga escala. Somos um time de especialistas, apaixonados por good code e trabalhamos em conjunto para lidar com os problemas de software mais difíceis e transformando idéias em realidade.
+A Divisio é empresa especializada em desenvolver software customizado, mobile apps, web apps utilizando as tecnologias React.js, React Native, Node.js, GraphQL e API REST. Trabalhamos com projetos de todos os tamanhos, desde pequenos até arquiteturas de aplicações de larga escala. Somos um time de especialistas, apaixonados por qualidade de código e trabalhamos em conjunto para lidar com os problemas de software mais difíceis e transformando ideias em realidade.
 
 ## Time
-Trabalhamos duro para promover uma cultura de apoio com uma hierarquia horizontal, onde todos podem aprender um com os outros.
-Todos têm a oportunidade de crescimento e participação em decisões diárias. Você poderá trabalhar remotamente de qualquer lugar, desenvolvendo novas aplicações, features e mantendo sistemas existentes para empresas que variam de tamanho, desde startups até grandes empresas. Quando você não estiver trabalhando em um projeto de um cliente, terá a
-oportunidade de contribuir com o desenvolvimento de nossos processos e produtos internos, sempre tendo voz para sugerir melhorias e oportunidade de contribuir para projetos open-source.
+Trabalhamos duro para promover uma cultura de apoio com uma hierarquia horizontal, onde todos podem aprender uns com os outros. Todos têm a oportunidade de crescimento e participação em decisões diárias. Você poderá trabalhar remotamente de qualquer lugar, desenvolvendo novas aplicações, features e mantendo sistemas existentes para empresas que variam de tamanho, desde startups até grandes empresas. Quando você não estiver trabalhando em um projeto de um cliente, terá a oportunidade de contribuir com o desenvolvimento de nossos processos e produtos internos, sempre tendo voz para sugerir melhorias e oportunidade de contribuir para projetos open-source.
 
 ## Vagas
 
@@ -51,4 +49,4 @@ oportunidade de contribuir com o desenvolvimento de nossos processos e produtos 
 PJ a combinar
 
 ## Como se candidatar
-Responder: [WIP]
+Responder: https://forms.gle/N5mG8yvLaVojFLSd7
